@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+header{
+	background-color: #fff;
+	border-bottom: 1px solid #eee;
+}
+
+.naranja{
+	color: #E3B67F;
+	text-transform: uppercase;
+}
+.titulo{
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+#services{
+	margin-top: 60px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#services h3{
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-bottom: 30px;
+	font-weight: 600;
+}
+#services p{
+	font-size: 12px;
+}
+#services .la-bread-slice, .la-cookie-bite, .la-stroopwafel, .la-utensils {
+	margin-top: 20px;
+	font-size: 60px;
+	color: #E3B67F;
+	margin-bottom: 20px;
+}
+#services h4{
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+#counter{
+	background-color: #ecb87d;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #fff;
+	text-align: center;
+}
+#counter p{
+	margin-top: 20px;
+}
+
+footer{
+	background-image: url("../img/footer-bg.jpg");
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	font-size: 35px;
+	color: #fff;
+	padding-top: 30px;
+}
+
+footer img{
+	padding-left: 20px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+footer p{
+	color: #fff;
+	font-size: 15px;
+	padding-left: 10px;
+}
+a{
+	color:#fff;
+}
+
